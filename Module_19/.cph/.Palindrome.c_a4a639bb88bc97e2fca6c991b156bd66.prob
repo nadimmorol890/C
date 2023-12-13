@@ -1,0 +1,1 @@
+{"name":"Local: Palindrome","url":"f:\\Phitron\\Module_19\\Palindrome.c","tests":[{"id":1699099567316,"input":"abcda","output":"NO"},{"id":1699099583014,"input":"abccba","output":"YES"},{"id":1699099612029,"input":"mam","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\Module_19\\Palindrome.c","group":"local","local":true}

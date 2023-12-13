@@ -1,0 +1,1 @@
+{"name":"Local: amni","url":"f:\\Phitron\\Module_19.5\\amni.c","tests":[{"id":1699113645062,"input":"2 2\n1 2","output":"3"},{"id":1699113752461,"input":"2 1\n1 2","output":"2"},{"id":1699113770435,"input":"3 3\n1 2 3","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\Module_19.5\\amni.c","group":"local","local":true}
